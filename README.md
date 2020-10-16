@@ -1,5 +1,5 @@
 # ETSIAE-Informatica
-Este repositorio alberga los proyectos desarrollados en la asignatura de 'Informática' de 1º curso del Grado en Ingeniería Aeroespacial (UPM). El lenguaje de programación Fortran 90 es el utilizado para introducir al alumno al cálculo científico-numérico.
+Este repositorio alberga los proyectos desarrollados en la asignatura de 'Informática' de 1º curso del Grado en Ingeniería Aeroespacial en la Universidad Politécnica de Madrid. El lenguaje de programación Fortran 90 es el utilizado para introducir al alumno al cálculo científico-numérico.
 
 La carpeta '1º semestre' incluye el trabajo desarrollado durante la primera parte del curso. Un total de siete hitos precede a un hito de final de semestre, enfocado a los algoritmos de búsqueda y ordenación. Cada uno de los proyectos consiste en una introducción teórica, una aplicación computacional de los conocimientos, un análisis de los resultados y un apartado de conclusiones. A continuación se detalla el contenido de los trabajos realizados:
 
